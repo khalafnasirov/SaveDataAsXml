@@ -1,0 +1,15 @@
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\bin\Debug\net7.0\SaveDataAsXml.exe
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\bin\Debug\net7.0\SaveDataAsXml.deps.json
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\bin\Debug\net7.0\SaveDataAsXml.runtimeconfig.json
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\bin\Debug\net7.0\SaveDataAsXml.dll
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\bin\Debug\net7.0\SaveDataAsXml.pdb
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.csproj.AssemblyReference.cache
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.AssemblyInfoInputs.cache
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.AssemblyInfo.cs
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.csproj.CoreCompileInputs.cache
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.dll
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\refint\SaveDataAsXml.dll
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.pdb
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\SaveDataAsXml.genruntimeconfig.cache
+C:\Users\Khalaf Nasirov\Documents\Application Development\ConsoleApps\SaveDataAsXml\obj\Debug\net7.0\ref\SaveDataAsXml.dll
